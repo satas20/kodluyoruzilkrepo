@@ -5,7 +5,7 @@ Bu repo [Kodluyoruz](http://kodluyoruz.org) Front-End Eğitiminde oluşturduğum
 Öncelikle projeyi clonelayın.
 
 ```bash
-git clone https://github.com/yigitarifsen/kodluyoruzilkrepo.git
+git clone https://github.com/satas20/kodluyoruzilkrepo.git
 ```
 ## Usage
 Projeyi cloneladıktan sonra Visual Code programında açınız.
